@@ -1,0 +1,14 @@
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$style$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$string$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$layout$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$styleable$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$id$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\Contacts$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$mipmap$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\Details$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$id$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$menu$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\R$integer$override.class
+CHANGED,C:\Users\arvind\AndroidStudioProjects\MyContacts\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arvind\mycontacts\Contacts$2$override.class
